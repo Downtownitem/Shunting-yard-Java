@@ -1,1 +1,1 @@
-# Shunting-yard
+# Shunting yard algorithm
